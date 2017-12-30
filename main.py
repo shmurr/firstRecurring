@@ -20,6 +20,6 @@ def frc(s):
             #If there are no characters equal to c, add it to the array
             a.append(c)
 
-    return "No repeaitng characters"
+    return "No repeating characters"
 
 frc(string)
